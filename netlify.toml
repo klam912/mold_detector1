@@ -1,3 +1,4 @@
 [build]
 command = "pip install -r requirements.txt && python run.py"
 publish = "app"  # or the directory where your Flask application resides
+python-version = "3.9"
