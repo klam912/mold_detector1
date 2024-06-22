@@ -3,3 +3,4 @@ app/uploads/
 app/app.py
 .DS_Store
 app/saved_model(kaggle)/
+next_steps.txt
