@@ -1,0 +1,5 @@
+app/__pycache__/
+app/uploads/
+app/app.py
+.DS_Store
+app/saved_model(kaggle)/
