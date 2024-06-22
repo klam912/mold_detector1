@@ -1,0 +1,3 @@
+[build]
+command = "python run.py"
+publish = "app"  # or the directory where your Flask application resides
