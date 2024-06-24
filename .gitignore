@@ -5,3 +5,4 @@ app/app.py
 app/saved_model(kaggle)/
 next_steps.txt
 .devcontainer/
+.vercel
